@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\patip\.gradle\caches\transforms-3\5ca2207bec8ce0ac00426ba2daedd076\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\patip\.gradle\caches\transforms-3\5ca2207bec8ce0ac00426ba2daedd076\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\patip\.gradle\caches\transforms-3\6d01dc9e6c97e2db7f917a881b9cee96\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\patip\.gradle\caches\transforms-3\6d01dc9e6c97e2db7f917a881b9cee96\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\patip\.gradle\caches\transforms-3\5ca2207bec8ce0ac00426ba2daedd076\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\ea2f0afd745f750d37821057ce8b49cf\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\patip\.gradle\caches\transforms-3\2f41217ba93fc4709f5b1808d248a693\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\089fd70d2fd0d8b0d0fccac91cc73965\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\d9d344ccf48b778ddf9d391688c24e69\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\743dcb1d30c26d486cf549d83317bdf5\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\7d2068ea5d1cb21a22512f3d83ef9473\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\patip\.gradle\caches\transforms-3\5ca2207bec8ce0ac00426ba2daedd076\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\patip\.gradle\caches\transforms-3\931d5010ff75a3f02644a627f13e8ea6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\3ca5b2c98c8e5ef6316ae34c7ee896ba\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\patip\.gradle\caches\transforms-3\ab116bf9d4b1c3d8f730643f20707912\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\patip\.gradle\caches\transforms-3\a930267138c5edfa2fdfb28b389f17d5\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\9c22e9e153dc6baf6f97c6f2a1954f25\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\patip\.gradle\caches\transforms-3\5d16321d5d1b5b5d0c0cd20a11988f3e\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\patip\.gradle\caches\transforms-3\6d01dc9e6c97e2db7f917a881b9cee96\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\patip\.gradle\caches\transforms-3\d34e0f7e38815d01204ab1e19770e108\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\patip\.gradle\caches\transforms-3\ddf423dc17e79e263170ac6ab9649310\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\ea2f0afd745f750d37821057ce8b49cf\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\ea2f0afd745f750d37821057ce8b49cf\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\patip\.gradle\caches\transforms-3\2f41217ba93fc4709f5b1808d248a693\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\patip\.gradle\caches\transforms-3\2f41217ba93fc4709f5b1808d248a693\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\089fd70d2fd0d8b0d0fccac91cc73965\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\089fd70d2fd0d8b0d0fccac91cc73965\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\d9d344ccf48b778ddf9d391688c24e69\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\d9d344ccf48b778ddf9d391688c24e69\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\743dcb1d30c26d486cf549d83317bdf5\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\743dcb1d30c26d486cf549d83317bdf5\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\7d2068ea5d1cb21a22512f3d83ef9473\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\7d2068ea5d1cb21a22512f3d83ef9473\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\patip\.gradle\caches\transforms-3\5ca2207bec8ce0ac00426ba2daedd076\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\patip\.gradle\caches\transforms-3\5ca2207bec8ce0ac00426ba2daedd076\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\patip\.gradle\caches\transforms-3\931d5010ff75a3f02644a627f13e8ea6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\patip\.gradle\caches\transforms-3\931d5010ff75a3f02644a627f13e8ea6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\3ca5b2c98c8e5ef6316ae34c7ee896ba\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\3ca5b2c98c8e5ef6316ae34c7ee896ba\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\patip\.gradle\caches\transforms-3\ab116bf9d4b1c3d8f730643f20707912\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\patip\.gradle\caches\transforms-3\ab116bf9d4b1c3d8f730643f20707912\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\patip\.gradle\caches\transforms-3\a930267138c5edfa2fdfb28b389f17d5\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\patip\.gradle\caches\transforms-3\a930267138c5edfa2fdfb28b389f17d5\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\9c22e9e153dc6baf6f97c6f2a1954f25\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\patip\.gradle\caches\transforms-3\9c22e9e153dc6baf6f97c6f2a1954f25\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\patip\.gradle\caches\transforms-3\5d16321d5d1b5b5d0c0cd20a11988f3e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\patip\.gradle\caches\transforms-3\5d16321d5d1b5b5d0c0cd20a11988f3e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\patip\.gradle\caches\transforms-3\6d01dc9e6c97e2db7f917a881b9cee96\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\patip\.gradle\caches\transforms-3\6d01dc9e6c97e2db7f917a881b9cee96\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\patip\.gradle\caches\transforms-3\d34e0f7e38815d01204ab1e19770e108\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\patip\.gradle\caches\transforms-3\d34e0f7e38815d01204ab1e19770e108\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\patip\.gradle\caches\transforms-3\ddf423dc17e79e263170ac6ab9649310\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\patip\.gradle\caches\transforms-3\ddf423dc17e79e263170ac6ab9649310\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\program1\learndev\learn_flutter_first_app\fronend\welcome-login-fronEnd\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\patip\.gradle\caches\transforms-3\2b6cfca2c68915b15e5c2303109746d4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51

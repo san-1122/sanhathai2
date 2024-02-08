@@ -1,0 +1,1 @@
+ C:\\program1\\learndev\\learn_flutter_first_app\\fronend\\welcome-login-fronEnd\\.dart_tool\\flutter_build\\1feea7d1f74c5c8e9350aaeebfcf04fb\\native_assets.yaml: 
